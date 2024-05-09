@@ -6,4 +6,4 @@ My broader research interests encompass:
 
 - Graph Neural Networks
 - Self-Supervised Learning
-- Bioinformatic
+- Bioinformatics
